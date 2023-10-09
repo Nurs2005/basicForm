@@ -1,0 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #76b852;
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
